@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/UI/MainMenu.uasset",
+				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/MainMenu.umap",
+				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/UI/MenuGameMode.uasset",
+				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/UI/coolRobots.uasset"
+			]
+		}
+	]
+}
