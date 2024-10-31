@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/FirstPerson/HenryLevel.umap",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/HenryLevel.umap",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/FirstPerson/Maps/HenryLevel.umap",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/UI/MainMenu.uasset",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/MainMenu.umap",
+				"/Users/thomasstewart/Documents/GitHub/FA24-GatesH-StewartT/HW1/Content/UI/MainMenuHome.uasset",
 				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/UI/MainMenu.uasset",
 				"C:/Users/hjgates2/Documents/Unreal Projects/HW1/Content/MainMenu.umap",
