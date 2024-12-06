@@ -1656,3 +1656,69 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-18.12.29:988][227]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/Reload.Reload
 [2024.12.06-18.15.04:251][362]BlueprintLog: New page: Compile AmmoPistol
 [2024.12.06-18.15.04:284][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.06-18.17.36:189][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.36:234][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.36:250][123]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.36:251][123]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistol6EA246ED4AADE1A89D72B88E2C3FC34A.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.36:258][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 763 ms)
+[2024.12.06-18.17.36:260][123]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.36:260][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.37:040][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.37:080][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.37:095][186]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.37:096][186]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistolC23AB8EF4C83B3B73348418C41751709.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.37:105][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 828 ms)
+[2024.12.06-18.17.37:106][186]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.37:106][186]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.37:223][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.37:265][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.37:280][195]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.37:280][195]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistol72D020D641F637E37691B78783D1358F.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.37:289][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 895 ms)
+[2024.12.06-18.17.37:290][195]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.37:290][195]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.37:370][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.37:432][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.37:447][201]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.37:447][201]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistolB0B9DAD84CBC75D66E912FB210216CBA.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.37:459][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 983 ms)
+[2024.12.06-18.17.37:462][201]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.37:462][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.37:526][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.37:563][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.37:579][206]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.37:580][206]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistolA9B63D304DA23EE994DB74B48CD2AF24.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.37:588][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.04 sec)
+[2024.12.06-18.17.37:589][206]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.37:589][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.38:276][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.38:331][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/AmmoPistol" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset" SILENT=true
+[2024.12.06-18.17.38:346][261]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPistol
+[2024.12.06-18.17.38:346][261]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/AmmoPistolE5522C2F47B86CFA0F58529D296BFE6B.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset'
+[2024.12.06-18.17.38:356][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.12 sec)
+[2024.12.06-18.17.38:358][261]AssetCheck: New page: Asset Save: AmmoPistol
+[2024.12.06-18.17.38:358][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-18.17.39:229][330]BlueprintLog: New page: Compile AmmoPistol
+[2024.12.06-18.17.39:264][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.06-18.17.40:488][418]LogSlate: Window 'IMC_Weapon_Right' being destroyed
+[2024.12.06-18.17.40:494][418]LogSlate: Window 'IMC_Weapon_Right' being destroyed
+[2024.12.06-18.17.40:532][418]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-18.17.40:532][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-18.17.42:041][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.42:074][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-18.17.42:109][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.06-18.17.42:135][573]LogSavePackage: Moving output files for package: /Game/levels/Level1
+[2024.12.06-18.17.42:136][573]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/Level1D55A7D814333CB85C6658DAD58994157.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap'
+[2024.12.06-18.17.42:144][573]LogFileHelpers: Saving map 'Level1' took 0.070
+[2024.12.06-18.17.42:153][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.23 sec)
+[2024.12.06-18.17.42:154][573]AssetCheck: New page: Asset Save: Level1
+[2024.12.06-18.17.42:154][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/Level1.Level1
+[2024.12.06-18.17.42:328][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.17.42:386][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-18.17.42:417][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.06-18.17.42:440][591]LogSavePackage: Moving output files for package: /Game/levels/Level1
+[2024.12.06-18.17.42:440][591]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/Level12C0E054A4197449F1864B7835BFDD6A8.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap'
+[2024.12.06-18.17.42:448][591]LogFileHelpers: Saving map 'Level1' took 0.062
+[2024.12.06-18.17.42:456][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1.36 sec)
+[2024.12.06-18.17.42:458][591]AssetCheck: New page: Asset Save: Level1
+[2024.12.06-18.17.42:458][591]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/Level1.Level1
