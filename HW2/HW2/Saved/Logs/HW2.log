@@ -2150,3 +2150,31 @@ The following settings have been applied:
 [2024.12.06-19.14.52:844][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 595 ms)
 [2024.12.06-19.14.52:845][420]AssetCheck: New page: Asset Save: Level2
 [2024.12.06-19.14.52:845][420]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/Level2.Level2
+[2024.12.06-19.15.43:669][134]Cmd: SELECT NONE
+[2024.12.06-19.16.03:808][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-19.16.05:950][188]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-19.16.05:967][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-19.16.06:026][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/BP_WinMessage" FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/BP_WinMessage.uasset" SILENT=true
+[2024.12.06-19.16.06:030][188]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_WinMessage
+[2024.12.06-19.16.06:030][188]LogSavePackage: Moving '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Saved/BP_WinMessage78AD8E8C422F15F06CD0B18D0CE91137.tmp' to '../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/BP_WinMessage.uasset'
+[2024.12.06-19.16.06:036][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 666 ms)
+[2024.12.06-19.16.06:036][188]Cmd: MAP LOAD FILE="../../../../../../Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-19.16.06:037][188]LightingResults: New page: Lighting Build
+[2024.12.06-19.16.06:038][188]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.06-19.16.06:109][188]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.16.06:109][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.16.06:110][188]MapCheck: New page: Map Check
+[2024.12.06-19.16.06:110][188]LightingResults: New page: Lighting Build
+[2024.12.06-19.16.06:121][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-19.16.06:123][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.06-19.16.06:134][188]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.06-19.16.06:134][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-19.16.06:134][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-19.16.06:134][188]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-19.16.06:154][188]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-19.16.06:169][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.06-19.16.06:172][188]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-19.16.06:172][188]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2024.12.06-19.16.06:172][188]LogSlate: Window 'Open Level' being destroyed
+[2024.12.06-19.16.06:180][188]AssetCheck: New page: Asset Save: BP_WinMessage
+[2024.12.06-19.16.06:180][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/BP_WinMessage.BP_WinMessage
