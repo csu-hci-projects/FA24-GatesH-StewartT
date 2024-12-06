@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/levels/Level1.umap",
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/IM_Reload_Right.uasset",
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/tste/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/Sounds/Reload.uasset",
 				"C:/Users/hjgates2/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hjgates2/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/HWStuff/target.uasset",
 				"C:/Users/hjgates2/Documents/GitHub/FA24-GatesH-StewartT/HW2/HW2/Content/HWStuff/targetMat.uasset",
